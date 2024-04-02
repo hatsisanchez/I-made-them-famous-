@@ -8,6 +8,9 @@ Este analisis se centra en explorar la respuestas e implicaciones de esatas preg
 * Comunicóloga:[Andrea](https://github.com/andyvillarrealg)
 * Investigador:[Eduardo](https://github.com/Gat021)
 ## Pasos de nuestro trabajo 
-1. Encontrar un tema general en común: Después de conversar un rato se llego a la conclusión de que a todos los integrantes del equipo les interesaba la cultura popular y la evolución de esta con el paso del tiempo. Considerando todo el aspecto contemporaneo que trae el internet.
-2. Encontrar un tema en particular: Con lo anterior en mente llegamos a los shows de premiaciones y pensando en un momento polémico recordamos el momento de Talor Swift y Kanye West. 
+1.Encontrar un tema general en común:
+###### Después de conversar un rato se llego a la conclusión de que a todos los integrantes del equipo les interesaba la cultura popular y la evolución de esta con el paso del tiempo. Considerando todo el aspecto contemporaneo que trae el internet.
+2.Encontrar un tema en particular:
+###### Con lo anterior en mente llegamos a los shows de premiaciones y pensando en un momento polémico recordamos el momento de Talor Swift y Kanye West. 
+3. 
 ### [Link para la presentación](https://www.canva.com/design/DAGALDU7D_c/2ZUeKzSRf3nAK-Jja4i5ug/edit?utm_content=DAGALDU7D_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
