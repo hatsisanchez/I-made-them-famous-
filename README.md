@@ -7,3 +7,4 @@ Este analisis se centra en describrir la respuestas e implocaciones de esatas pr
 * Tecnóloga:[Sofía](https://github.com/ruiztsofia)
 * Comunicóloga:[ANDREA](https://github.com/andyvillarrealg)
 * Investigador:[Eduardo](https://github.com/Gat021) 
+### [Link para la presentación](https://www.canva.com/design/DAGALDU7D_c/2ZUeKzSRf3nAK-Jja4i5ug/edit?utm_content=DAGALDU7D_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
