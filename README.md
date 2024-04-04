@@ -2,6 +2,7 @@
 ## ¿Quien no recuerda ese iconico momento en los MTV VMAs  2009 donde Kanye West le arrevato el microfono a Taylor Swift? 
 ### ¿ Cuales seran los argumentos que se usan para defender a uno de los dos artistas? ¿Cómo han cambiado las percepciones de los artistas y qué efecto tiene esto en los argumentos usados? ¿Cuales son las implicaciones de genero? ¿El idioma juega un papel prevalente en los comentarios? ¿Que nos dice todo esto de la cultura popular?
 Este analisis se centra en explorar la respuestas e implicaciones de esatas preguntas, todo en base de una opinión publica. Los comentaríos seran rescatados de un clip en youtube que captura el momento mencionado en la primer preguntas. Despues serán filtrados con el programa "YouTube Data Tool" y lo resultante tendra un analisis inicial, de descarte, con la herramienta "Voyant Tools". Todo sera expuesto en una presentación realizada en Canvas.
+![This is an alt text.](https://media.glamour.mx/photos/619076fb2d97bd4c522a7e25/master/w_1600,c_limit/221065.jpg")
 ### Los integrantes del equipo 
 * Líder:[Hatsi](https://github.com/hatsisanchez)    
 * Tecnóloga:[Sofía](https://github.com/ruiztsofia)
