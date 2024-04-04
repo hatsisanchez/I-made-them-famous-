@@ -9,19 +9,19 @@ Este analisis se centra en explorar la respuestas e implicaciones de esatas preg
 * Comunicóloga:[Andrea](https://github.com/andyvillarrealg)
 * Investigador:[Eduardo](https://github.com/Gat021)
 ## Pasos de nuestro trabajo 
-1.Encontrar un tema general en común:
+1. Encontrar un tema general en común:
 ###### Después de conversar un rato se llego a la conclusión de que a todos los integrantes del equipo les interesaba la cultura popular y la evolución de esta con el paso del tiempo. Considerando todo el aspecto contemporaneo que trae el internet.
-2.Encontrar un tema en particular:
+2. Encontrar un tema en particular:
 ###### Con lo anterior en mente llegamos a los shows de premiaciones y pensando en un momento polémico recordamos el momento de Talor Swift y Kanye West. 
-3.Encontrar el enfoque de nuestra investigación: 
+3. Encontrar el enfoque de nuestra investigación: 
 ###### Nos preguntamos que cosas son las que más nos interesan del tema, ya con la polemíca especifica en mente. Despues emcontramos posibles preguntas que podriamos contestar con los comentarios (¿Cuáles son los principales argumentos para defender a cada artista? ¿Cómo era la percepción de los artistas en el momento? ¿Cómo es su percepción ahora? ¿Qué artista tiene más apoyo del público? ¿Cómo se pintan a los artistas (tanto en ese momento como ahora)¿El idioma tiene algún papel importante?¿Hay implicaciones de género?¿Qué nos dice todo esto de la cultura popular?)
 4. Empezar a trabajar con los datos duros:
 ###### Corrimos los comentarios por el programa de filtración. Después con los resultados del documento en ecxel, pasamos solo los comentarios más largos y coherentes a un documento en docs. 
-6. Empezar con el analisis:
+5. Empezar con el analisis:
 ###### Ya en el documento docs separamos los comentarios entre los que apotaban a Kanye y los que apoyaban a Taylor. Una vez hecho esto analizamos casa seccion con Voyant y asi comenzamos nuestro analisis final enfocado en las preguntas.
-8. Conclusiónes:
+6. Conclusiónes:
 ###### Nunca hubo un “bando ganador”. La percepción actual de los artistas influye como son actualmente interpretadas sus acciones. Este momento fue mucho más “grande” para la carrera de Taylor. Aunque parece sorprendente, Beyónce nunca fue mencionada en “backlash”. 
-10. Reflexiones finales del ejercicio:
+7. Reflexiones finales del ejercicio:
 ###### Este fue un ejercicio muy interesante, a todos los miembros del equipo nos impacto mucho ver como poco a poco van cambiando las opiniones del publico. La unica critica que encontramos es que "Youtube data tools" no es una muy gran ayuda. Principalmente por que no tiene muchos parametros de filtración.
 
 ### [Link para la presentación](https://www.canva.com/design/DAGALDU7D_c/2ZUeKzSRf3nAK-Jja4i5ug/edit?utm_content=DAGALDU7D_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
